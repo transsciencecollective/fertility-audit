@@ -4,10 +4,13 @@ This is the official repository for the paper "Mind the Gap: A Nationwide Audit 
 Here, you will find the checklist, survey and rubric used to conduct the study.
 
 ### Quick Links
+
+[Definitions 📖](./definitions.md)
+
+[Methods 🥼](./methods.md)
+
 [Checklist ✅](./checklist.md)
 
 [Survey 📋](./survey.md)
 
 [Website Rubric 🌐](./website-rubric.md)
-
-[Methods 🥼](./methods.md)
